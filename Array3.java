@@ -1,3 +1,4 @@
+// daeletion of element from the though the index 
 import java.util.*;
 class Array3
 {
