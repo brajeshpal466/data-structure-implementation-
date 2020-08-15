@@ -1,4 +1,4 @@
-// daeletion of element from the though the index 
+// insert the element in index vlue position
 import java.util.*;
 class Array3
 {
@@ -27,8 +27,6 @@ for(int i=0;i<size;i++)
 {
 	arr[i]=i;
 }
-System.out.println(size);
-System.out.println(cap);
 System.out.println("enter the key for insertion");
 int key=ss.nextInt();
 System.out.println("enter the index for insertion");
